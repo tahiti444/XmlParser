@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<current>
+  <city id="2872949" name="Matersen">
+    <coord lon="12" lat="54">
+    </coord>
+    <country>DE</country>
+    <timezone>3600</timezone>
+    <sun rise="2022-02-18T06:26:06" set="2022-02-18T16:26:05">
+    </sun>
+  </city>
+  <temperature value="277.84" min="277.25" max="278.63" unit="kelvin">
+  </temperature>
+  <feels_like value="273.89" unit="kelvin">
+  </feels_like>
+  <humidity value="78" unit="%">
+  </humidity>
+  <pressure value="1002" unit="hPa">
+  </pressure>
+  <wind>
+    <speed value="5.45" unit="m/s" name="Gentle Breeze">
+    </speed>
+    <gusts value="10.01">
+    </gusts>
+    <direction value="211" code="SSW" name="South-southwest">
+    </direction>
+  </wind>
+  <clouds value="100" name="overcast clouds">
+  </clouds>
+  <visibility value="10000">
+  </visibility>
+  <precipitation mode="no">
+  </precipitation>
+  <weather number="804" value="overcast clouds" icon="04d">
+  </weather>
+  <lastupdate value="2022-02-18T08:56:25">
+  </lastupdate>
+</current>
